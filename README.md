@@ -35,14 +35,6 @@ Kotlin, Java, Sometimes Python
 
 ---
 
-## Philosophy (short version)
-
-- Simple beats clever
-- Fast beats fancy
-- Readable code ages better than smart code
-- If the UI stutters, it’s not “good enough”
-
----
 
 ## Currently
 
