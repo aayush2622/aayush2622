@@ -28,10 +28,13 @@ Kotlin, Java, Sometimes Python
 
 ---
 
-## GitHub stats (numbers go up sometimes)
+## Stats (numbers go up sometimes)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayush2622&show_icons=true&hide_border=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush2622&layout=compact&hide_border=true&theme=transparent)
+<p align="center">
+  <a href="https://wakatime.com/@018de3cd-25ca-4ff2-9fda-2669fa1fc98e">
+    <img src="https://wakatime.com/badge/user/018de3cd-25ca-4ff2-9fda-2669fa1fc98e.svg?style=for-the-badge&color=blueviolet&label_color=1a1b27">
+  </a>
+</p>
 
 ---
 
