@@ -35,7 +35,10 @@ Kotlin, Java, Sometimes Python
     <img src="https://wakatime.com/badge/user/018de3cd-25ca-4ff2-9fda-2669fa1fc98e.svg?style=for-the-badge&color=blueviolet&label_color=1a1b27">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/aayush2622/github-stats/blob/master/overview.svg#gh-dark-mode-only" width="49%" />
+  <img src="https://github.com/aayush2622/github-stats/blob/master/languages.svg#gh-dark-mode-only" width="49%" />
+</p>
 ---
 
 
