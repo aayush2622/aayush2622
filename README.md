@@ -3,7 +3,7 @@
 I build software. Mostly because something annoyed me and I decided to fix it.
 
 Flutter • Dart • Android • Desktop  
-Linux user (I use ARCH btw)
+Linux user (I use NIX btw)
 
 ---
 
